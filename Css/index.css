@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(252, 255, 240);
+}
+.navbar{
+    background-color:rgb(2, 4, 49);/*Cor da navbar */
+   /* */
+}
+.espaco{
+    margin-left: 2vw;/*Espaçamento do primeiro elemento da navbar */
+}
+#Degrade{
+    /*Cor, altura e margim do degrade */
+    background: linear-gradient(to right, #42044f,#2d0371fd);
+    height: 28vw; 
+    border-top: 3px solid;
+    border-bottom: 5px solid;
+    border-color: #1f1793;
+    display: flex;
+}   
+#fundofoto {
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    background-color: rgb(2, 4, 49);
+    border: 1px solid #1f1793;
+    margin-left: 6vw;
+    margin-top: 4vw;
+    display: flex;
+}
+
+
+.imgestrelas{
+    width: 5vw;
+    height: auto;
+    margin-top: 1vw;
+    margin-left: -1vw;
+}
+.imagemeu{
+   margin-left: -1.5vw; 
+    margin-top: 5vw;
+    width: 15vw;
+    height: auto;
+}
+.imgestrelas2{
+    width: 5vw;
+    height: auto;
+    margin-top: 1vw;
+    margin-left: -3vw;
+}
+#Bio{
+    margin-top: 6vw;
+    margin-right: 3vw;
+    margin-bottom: 4vw;
+    height: auto;
+    margin-left: 4vw;
+    border: 2 solid #090455;   
+}
+h4{
+  color: white;
+}
+.imgprogramador{
+    width: 30vw;
+    margin-top: 5vw;
+}
+label{
+    color: white;
+    margin-top: -2px;
+}
+.textointrodução{
+    font-size: 22px;
+}
+#informacoes{
+    display: flex;
+    width: 100%;
+    height: 20%;
+    margin-top: 2vw;
+}
+.box{
+    background-color: #090455;
+    width: 30%;
+    height: auto;
+    margin-left: 3.3vw;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 3vw;
+}
+#box1{
+    margin-left: 1.5vw
+
+}
+.card{
+    display: block;
+    
+}
+.margemletrabox{
+    margin-top: 1vw;
+}
+.imagenscard{
+    width: 8vw;
+    height: auto;
+    margin: 0;
+}
+
